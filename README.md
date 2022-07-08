@@ -3,7 +3,7 @@
 On this project, i want to share how to use visitor history to get more insight for business decision. To get that insight, i use algortihm to predict number of passangers who will visit the airport using ARIMA & SARIMAX method (Time Series).
 ![Airport](Image/cover.jpg)
 <br>
-For full report of this project, please visit <a href="https://github.com/Juantonios1/Predict-Number-of-Passangers-at-Airport-using-Time-Series/blob/main/Prediction%20Number%20of%20Passengers%20Ipynb/Air%20Passengers%20Analysis.ipynb">Predict Number of Passangers at Airport using Time Series</a>.
+For full report of this project, please visit <a href="https://github.com/Juantonios1/Predict-Number-of-Passangers-at-Airport-using-Time-Series/blob/main/Forecasting%20Number%20of%20Visitors.%20Ipynb/Forecasting%20Number%20of%20Visitors%20at%20Airport.ipynb">Predict Number of Passangers at Airport using Time Series</a>.
 
 ## Summary Process
 <!-- TABLE OF CONTENTS -->
@@ -69,7 +69,7 @@ We conclude our result and give recommendation based on it
   * It good to make more investment because customer still increase next year.
   * Retailer need more stocks on July untill August.
 
-For full report of this project, please visit <a href="https://github.com/Juantonios1/Predict-Number-of-Passangers-at-Airport-using-Time-Series/blob/main/Prediction%20Number%20of%20Passengers%20Ipynb/Air%20Passengers%20Analysis.ipynb">Predict Number of Passangers at Airport using Time Series</a>.
+For full report of this project, please visit <a href="https://github.com/Juantonios1/Predict-Number-of-Passangers-at-Airport-using-Time-Series/blob/main/Forecasting%20Number%20of%20Visitors.%20Ipynb/Forecasting%20Number%20of%20Visitors%20at%20Airport.ipynb">Predict Number of Passangers at Airport using Time Series</a>.
 
 ## Contributors:
 Juan Antonio Suwardi - antonio.juan.suwardi@gmail.com  
