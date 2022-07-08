@@ -14,6 +14,7 @@ For full report of this project, please visit <a href="https://github.com/Juanto
     <li><a href="#data-understanding">Data Understanding</a></li>
     <li><a href="#exploratory-data-analysis">Exploratory Data Analysis</a></li>
     <li><a href="#modeling">Modeling</a></li>
+    <li><a href="#prediction">Prediction</a></li>
     <li><a href="#conclusion">Conclusion and Recommendation</a></li>
     <li><a href="#contributors">Contributors</a></li>
   </ol>
@@ -47,13 +48,21 @@ At this stage, a brief analysis of the data will be carried out, as follows:
 ![Pattern](Image/pattern.png)
 
 ## Modeling
-At this stage will be done making and optimizing the deep learning model, as follows:
-* ARIMA Univariate.
-* SKTime Univariate.
-  * Naive Forcester.
-  * SARIMAX.
-
+At this stage will be done making and optimizing the Time Series model, as follows:
+* Define p,d,q value
 ![pdq](Image/arima.png)
+
+* Model
+  * ARIMA Univariate.
+  ![ARIMA](Image/ARIMA_1.png)
+  * Naive Forcester.
+  ![Naive](Image/Naive.png)
+  * SARIMAX.
+  ![SARIMAX](Image/SARIMAX.png)
+
+## Prediction 
+At this stage will be done predict using selected model, with result:
+![Prediction](Image/pred.png)
 
 ## Conclusion 
 We conclude our result and give recommendation based on it
